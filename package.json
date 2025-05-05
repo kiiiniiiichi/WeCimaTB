@@ -1,0 +1,25 @@
+{
+  "name": "CoolestElk5488/tizenF1",
+  "appName": "TizenF1",
+  "version": "1.0.0",
+  "description": "TizenF1",
+  "packageType": "mods",
+  "websiteURL": "https://wearechecking.online",
+  "main": "dist/userScript.js",
+  "author": "Fraser Simpson",
+  "serviceFile": "dist/service.js",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
+  ],
+  "repository": {
+    "url": "https://github.com/CoolestElk5488/tizenF1"
+  },
+  "license": "GPL-3.0-only"
+}
