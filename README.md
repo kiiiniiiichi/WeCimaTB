@@ -1,6 +1,6 @@
 # TizenF1 for TizenBrew
 
-NPM package ready to be used is: [@CoolestElk5488/tizenF1](https://www.npmjs.com/package/@crazywolf13/tizen-tunein)
+NPM package is: [@CoolestElk5488/tizenF1](https://www.npmjs.com) ~ not made yet
 
 Add it as a module to your `TizenBrew` and enjoy!
 
