@@ -2,7 +2,7 @@
   "name": "CoolestElk5488/tizenF1",
   "appName": "TizenF1",
   "version": "1.0.0",
-  "description": "TizenF1",
+  "description": "TizenF1 via tizenbrew",
   "packageType": "mods",
   "websiteURL": "https://wearechecking.online",
   "main": "dist/userScript.js",
