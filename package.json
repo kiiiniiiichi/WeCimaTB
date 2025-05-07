@@ -1,12 +1,12 @@
 {
-  "name": "CoolestElk5488/tizenF1",
-  "appName": "TizenF1",
+  "name": "xHiqhAim/WeCimaTB",
+  "appName": "WeCimaTB",
   "version": "1.0.0",
-  "description": "TizenF1 via tizenbrew",
+  "description": "WeCima via tizenbrew with adblocking",
   "packageType": "mods",
-  "websiteURL": "https://wearechecking.online",
+  "websiteURL": "https://wecima.tube/",
   "main": "dist/userScript.js",
-  "author": "Fraser Simpson",
+  "author": "xHiqhAim",
   "serviceFile": "dist/service.js",
   "keys": [
     "MediaPlayPause",
@@ -19,7 +19,7 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/CoolestElk5488/tizenF1"
+    "url": "https://github.com/kiiiniiiichi/WeCimaTB"
   },
   "license": "GPL-3.0-only"
 }
